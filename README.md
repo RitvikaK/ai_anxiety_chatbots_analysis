@@ -20,7 +20,7 @@ An investigation into how conversational AI tools support or hinder users experi
 ---
 
 ## 🛠️ Deep Dives
-* [**Full Methodology**](./Methodology.md) – *Data cleaning, sampling logic, and RAND() implementation.*
+* [**Full Methodology**](methodology) – *Data cleaning, sampling logic, and RAND() implementation.*
 * [**Thematic Codebook**](./Thematic_Coding.md) – *The 10-point framework used to categorize user friction and value.*
 
 ---
