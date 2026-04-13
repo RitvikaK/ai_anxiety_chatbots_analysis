@@ -51,4 +51,4 @@ Negative experiences are not uniform. While **Youper** struggles with **Paywall 
 ## 🚀 Future Work
 * Implement **NLP/LLM-based classification** to scale the analysis.
 * Include social media discourse (Reddit/Twitter) for broader context.
-* Expand keyword filtering beyond "anxiety" to include "panic," "dread," and "overwhelmed."
+* Expand keyword filtering beyond "anxiety" and "anxious" to include "panic," "dread," and "overwhelmed" in order to capture implicit instances of anxiety too.
