@@ -5,7 +5,7 @@ This directory contains the multi-level analysis of AI Mental Health Chatbot rev
 ---
 
 ### 📂 1. Data Pipeline
-* [**1. Data Pipeline**](./1_Data_Pipeline.md)  
+* [**1. Data Pipeline**](.1_Data_Funnel/1_Data_Pipeline.md)  
   *Visualising the filtering process from the original Kaggle dataset (N=31,739) to the high-insight categorised sample (N=119).*
 
 ### 📂 2. Quantitative Analysis
