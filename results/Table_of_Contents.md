@@ -5,25 +5,25 @@ This directory contains the multi-level analysis of AI Mental Health Chatbot rev
 ---
 
 ### 📂 1. Data Pipeline
-* [**1. Data Pipeline**](/1_Data_Funnel/1_Data_Pipeline.md)  
+* [**1. Data Pipeline**](/results/1_Data_Funnel/1_Data_Pipeline.md)  
   *Visualising the filtering process from the original Kaggle dataset (N=31,739) to the high-insight categorised sample (N=119).*
 
 ### 📂 2. Quantitative Analysis
-* [**2.1 Original Dataset**](/2_Quantitative_Analysis/2.1_Original_Dataset.md)  
+* [**2.1 Original Dataset**](/results/2_Quantitative_Analysis/2.1_Original_Dataset.md)  
   *Baseline distribution of all reviews across Replika, Wysa, Woebot, and Youper.*
-* [**2.2 Filtered Subset: Anxiety Mentions**](/2_Quantitative_Analysis/2.2_Filtered_dataset.md)  
+* [**2.2 Filtered Subset: Anxiety Mentions**](/results/2_Quantitative_Analysis/2.2_Filtered_dataset.md)  
   *Breakdown of the 680 reviews specifically mentioning "anxiety" or "anxious."*
-* [**2.3 Categorised Final Dataset**](/2_Quantitative_Analysis/2.3_Categorised_final_dataset.md)  
+* [**2.3 Categorised Final Dataset**](/results/2_Quantitative_Analysis/2.3_Categorised_final_dataset.md)  
   *Distribution of the final dataset which has been categorised."*
 
 ### 📂 3. Qualitative Deep-Dive
-* [**3.1.1 Thematic Prevalence**](/3_Qualitative_Deep_Dive/3.1.1_Thematic_prevalence.md)  
+* [**3.1.1 Thematic Prevalence**](/results/3_Qualitative_Deep_Dive/3.1.1_Thematic_prevalence.md)  
   *The total volume of conversation across all identified theme mentions (N=144).*
-* [**3.1.2 Categorical Distribution**](/3_Qualitative_Deep_Dive/3.1.2_Categorical_distribution.md)  
+* [**3.1.2 Categorical Distribution**](/results/3_Qualitative_Deep_Dive/3.1.2_Categorical_distribution.md)  
   *A granular codebook mapping specific user feedback categories to overarching themes (N=180).*
-* [**3.2 Dominant Theme by Rating**](/3_Qualitative_Deep_Dive/3.2_Dominant_Theme_by_Rating.md)  
+* [**3.2 Dominant Theme by Rating**](/results/3_Qualitative_Deep_Dive/3.2_Dominant_Theme_by_Rating.md)  
   *Correlation between user sentiment and the primary psychological driver of the review (N=119).*
-* [**3.3 Thematic Distribution by App**](/3_Qualitative_Deep_Dive/3.3_Thematic_Distribution_by_App.md)  
+* [**3.3 Thematic Distribution by App**](/results/3_Qualitative_Deep_Dive/3.3_Thematic_Distribution_by_App.md)  
   *Comparison of user experiences and complaints across different platforms (N=144).*
 
 ---
