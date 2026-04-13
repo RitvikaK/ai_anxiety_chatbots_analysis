@@ -9,7 +9,7 @@ This directory contains the multi-level analysis of AI Mental Health Chatbot rev
   *Visualising the filtering process from the original Kaggle dataset (N=31,739) to the high-insight categorised sample (N=119).*
 
 ### 📂 2. Quantitative Analysis
-* [**2.1 Original Dataset**](results/📂 2_Quantitative_Analysis/2.1_Original_Dataset.md)  
+* [**2.1 Original Dataset**](/results/2_Quantitative_Analysis/2.1_Original_Dataset.md)  
   *Baseline distribution of all reviews across Replika, Wysa, Woebot, and Youper.*
 * [**2.2 Filtered Subset: Anxiety Mentions**](/results/2_Quantitative_Analysis/2.2_Filtered_dataset.md)  
   *Breakdown of the 680 reviews specifically mentioning "anxiety" or "anxious."*
